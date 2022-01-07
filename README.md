@@ -6,11 +6,13 @@ Our Client, Louise, wants to know how different **Play** campaigns fared in rela
 Analysing how each of these two parameters, **_campaign launch dates_** and **_their funding goals_**, can effect the **play** campaigns **outcomes** using data provided with the Kickstarter file.
 
 ## Analysis and Challenges
+### Outcomes Based on Launch Date
+
+For this section, at first, I extracted the **Launch Year** out of our Launch date column with the =year() formula. Then, I created a PivotTable with _Parent Category_ and _Years_ as its _filters_, _Outcome_ as its _columns_ and _Date Conversion_ as its _rows_. Secondly, I set the filter of Parent Category to **Theater**. The result table shows us the number of Successful, Failed and Canceled Theater Campagins for each month of year:
+
+
+
 ### Analysis of Outcomes Based on Launch Date
-
-For this section, at first, I extracted the **Launch Year** out of our Launch date column with the =year() formula. Then, I created a PivotTable with _Parent Category_ and _Years_ as its _filters_, _Outcome_ as its _columns_ and _Date Conversion_ as its _rows_. Secondly, I set the filter of Parent Category to **Theater**. The result table shows us the number of Successful, Failed and Cancelled Theater Campagins for each month of year.
-
-
 ![Outcomes based on Launch date Image](Resources/Theater_Outcomes_vs_Launch.png)
 
 Our data shows that **theater play** fund raising campaigns can be more successful mid-year, _late spring / early summer_. The highest number of successful campaigns belong to month of **May** while the least successful campaigns were launched in **December**. 
