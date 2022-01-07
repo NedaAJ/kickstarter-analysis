@@ -29,10 +29,11 @@ At the beginning with the Outcome based on Goals section of challenge, the numbe
 Month of **May** has the highest number of successful fund raising campaigns whereas, **December** has the lowest number of succesful campaigns.
 
 - What can you conclude about the Outcomes based on Goals? 
-Campaigns Funding goal rangess for less than $4,999 have the highest success range.
+Based on our data, the higher funding goal of a campaign is, there will be a higher risk of failing for it. Also, we can see that the success rate declines as the goal amount increase. To conclude, Campaigns which have Funding goal of $4,999 and less have the highest success range.
 
 - What are some limitations of this dataset?
-There are other elements which can effect the success of a **Theater Play** like their genre. As the focus of this study was on theater fund raising campaigns, we could have more data on theaters more specifically plays.
+There are other elements which can effect the success of a **Theater Play** like their genre. We also have some outliners which can cause ditruption to our analysis.
 
 - What are some other possible tables and/or graphs that we could create?
-Outcome based on Deadline or Duration of the Campaign
+  - Outcome based on Deadline or Duration of the Campaign
+  - A box-whisker plot to have the outliners identified for each campaign parent category
