@@ -7,7 +7,6 @@ Analyising how each of these two parameters, **_campaign launch dates_** and **_
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-Fro this section, I first 
 ![Outcomes based on Launch date Image](Resources/Theater_Outcomes_vs_Launch.png)
 
 Our data shows that **theater play** fund raising campaigns can be more successful mid-year, _late spring / early summer_. The highest number of successful campaigns belong to month of **May** while the least successful campaigns were launched in **December**. 
