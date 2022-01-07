@@ -8,7 +8,7 @@ Analysing how each of these two parameters, **_campaign launch dates_** and **_t
 ## Analysis and Challenges
 ### Outcomes Based on Launch Date
 
-For this section, at first, I extracted the **Launch Year** out of our Launch date column with the =year() formula. Then, I created a PivotTable with _Parent Category_ and _Years_ as its _filters_, _Outcome_ as its _columns_ and _Date Conversion_ as its _rows_. Secondly, I set the filter of Parent Category to **Theater**. The result table shows us the number of Successful, Failed and Canceled Theater Campagins for each month of year:
+For this section, at first, I extracted the **Launch Year** out of our Launch date column with the =year() formula. Then, I created a PivotTable with _Parent Category_ and _Years_ as its _filters_, _Outcome_ as its _columns_ and _Date Conversion_ as its _rows_. Secondly, I set the filter of Parent Category to **Theater**. The result table shows us the number of Successful, Failed and Canceled Theater Campagins for each month of year.
 
 
 
