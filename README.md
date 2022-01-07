@@ -32,6 +32,7 @@ Month of **May** has the highest number of successful fund raising campaigns whe
 Campaigns Funding goal rangess for less than $4,999 have the highest success range.
 
 - What are some limitations of this dataset?
-There are other elements which can effect the success of a **Theater Play** like the genre. As the focus of this study was on theater fund raiasing campaigns, we could have more data on theaters more specifically plays.
+There are other elements which can effect the success of a **Theater Play** like their genre. As the focus of this study was on theater fund raising campaigns, we could have more data on theaters more specifically plays.
 
-- What are some other possible tables and/or graphs that we could create? 
+- What are some other possible tables and/or graphs that we could create?
+Outcome based on Deadline or Duration of the Campaign
