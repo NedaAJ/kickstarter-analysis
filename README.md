@@ -3,7 +3,7 @@
 Our Client, Louise, wants to know how different **Play** campaigns fared in relation to their launch dates and funding goals.
 
 ### Purpose
-Analyising how each of these two parameters, **_campaign launch dates_** and **_their funding goals_**, can effect the **play** campaigns **outcomes** using data provided with the Kickstarter file.
+Analysing how each of these two parameters, **_campaign launch dates_** and **_their funding goals_**, can effect the **play** campaigns **outcomes** using data provided with the Kickstarter file.
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
