@@ -43,3 +43,7 @@ There are other elements which can effect the success of a **Theater Play** like
 - What are some other possible tables and/or graphs that we could create?
   - Outcome based on Deadline or Duration of the Campaign
   - A box-whisker plot to have the outliners identified for each campaign parent category
+
+## Contact:
+- Email : [neda.ahmadi.jesh@gmail.com](mailto:neda.ahmadi.jesh@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- Linkedin: www.linkedin.com/in/neda-ahmadi-j
